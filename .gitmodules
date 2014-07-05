@@ -91,3 +91,7 @@
 [submodule "bundle/vim-vinegar"]
   path = bundle/vim-vinegar
   url  = git@github.com:tpope/vim-vinegar.git
+[submodule "bundle/vim-ruby-minitest"]
+  path = bundle/vim-ruby-minitest
+  url  = https://github.com/sunaku/vim-ruby-minitest.git
+
