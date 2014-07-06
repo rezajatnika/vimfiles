@@ -6,14 +6,14 @@ My personal vim configuration, mostly for Ruby and Ruby on Rails development. Co
 
 Very simple to install this bundle, after clean install vim, gvim, or macvim.
 
-  $ git clone https://github.com/rezajatnika/vimfiles.git ~/.vim
-  $ cd ~/.vim
-  $ git submodule init && git submodule update
+    $ git clone https://github.com/rezajatnika/vimfiles.git ~/.vim
+    $ cd ~/.vim
+    $ git submodule init && git submodule update
 
 Symlink `vimrc` according to your machine.
 
-  $ ln -s ~/.vim/vimrc.mac ~/.vimrc      # for mac
-  $ ln -s ~/.vim/vimrc.linux ~/.vimrc    # for linux
+    $ ln -s ~/.vim/vimrc.mac ~/.vimrc      # for mac
+    $ ln -s ~/.vim/vimrc.linux ~/.vimrc    # for linux
 
 ## Configuration
 
