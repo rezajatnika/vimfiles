@@ -18,3 +18,7 @@ Symlink `vimrc` according to your machine.
 ## Configuration
 
 See `vimrc` for existing configurations.
+
+## Screenshot
+
+![ss](https://dl.dropboxusercontent.com/u/146649182/images/vim.png)
